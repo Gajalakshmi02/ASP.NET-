@@ -1,0 +1,11 @@
+﻿body {
+    background:url("/imgs/back.jpg")
+}
+
+.form-group label{
+    color:aqua;
+}
+
+.form-group input:focus{
+    background-color:mediumvioletred;
+}
